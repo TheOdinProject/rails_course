@@ -6,7 +6,7 @@ The Odin Project (also known as TOP), is an open-source community for learning f
 ## Contributing
 We are currently redeveloping this course and would love to have your help.
 
-To find out more about how you can contribute please read our [contributing guide](https://github.com/TheOdinProject/curriculum/wiki/Contributing-Guide).
+To find out more about how you can contribute please read our [contributing guide](https://github.com/TheOdinProject/rails_course/wiki/Contributing-Guide).
 
 
 # Maintainers for this Course
