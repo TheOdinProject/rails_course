@@ -21,17 +21,19 @@ Look through these now and then use them to test yourself after doing the assign
 <div class="lesson-content__panel" markdown="1">
 * Go to the [Sinatra website](http://www.sinatrarb.com/) and follow the (somewhat cryptic) instructions right on their front page:
 
-create a file called `hi.rb` with the following code:
+create a file called `frank_says.rb` with the following code:
 
 ~~~ruby
   require 'sinatra'
-
-  get '/hi' do
-    'Hello World!'
+  
+  get '/frank-says' do
+    'Put this in your pipe & smoke it!'
   end
 ~~~
 
-From the command line install the Sinatra gem by typing `gem install sinatra` then run the file you created: `ruby hi.rb`. Then visit the page in your browser at `http://localhost:4567/hi`.
+From the command line install the Sinatra gem by typing `gem install sinatra` then run the file you created: `ruby frank_says.rb`. Then visit the page in your browser at `http://localhost:4567/frank-says`.
+
+If you use [cloud9](https://c9.io) instead of a local environment then you can follow the above instructions but instead run `ruby frank_says.rb -o $IP -p $PORT` from the terminal and it will provide you with a link to view your application in the browser. You then simply need to add `/frank-says` to the address bar in the browser window that opens running your app.
 
 * Work through this [tutorial](http://tutorials.jumpstartlab.com/projects/web_guesser.html) from Jumpstart Labs. Be sure to try out some of the Extensions at the end of the tutorial, that's the fun stuff!
 * Take a look at the [Sinatra README](http://www.sinatrarb.com/intro.html) and read through the first eight sections of it ( until section 8, "Helpers").Almost everything you will need to know about Sinatra is right here on this page so use it as a reference when you are working through the project.
