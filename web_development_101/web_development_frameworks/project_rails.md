@@ -23,6 +23,8 @@ Because you'll be doing so much stuff that we haven't taught you yet, this is a 
 Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
+* [Mat's solution](https://github.com/mateus-reno/blogger) - [View in browser](https://warm-dusk-47417.herokuapp.com/)
+* [Omar Moataz's solution](https://github.com/OmarMoataz/blogger) - [View in browser](http://mighty-tundra-22636.herokuapp.com/)
 * [rghost's solution](https://github.com/MariaTikhonova/newblogger) - [View in browser](https://newblogger.herokuapp.com/articles)
 * [iamfranco's solution](https://github.com/iamfranco/the_odin_project/tree/master/blogger) - [View in browser](https://pure-basin-69282.herokuapp.com)
 * [danhofer's solution](https://github.com/danhofer/jumpstart-blogger)
@@ -287,6 +289,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Samitha's Solution](https://github.com/samomatik/blogger) - [View in Browser](https://ancient-hamlet-11554.herokuapp.com/) I0-I5
 * [CurmudJim's Solution](https://github.com/CurmudJim/blogger) - [View in Browser](https://jim-blogger.herokuapp.com/)
 * [tonalmasher's solution](https://github.com/tonalmasher/blogger-jumpstart) - [View in Browser](https://radiant-stream-12878.herokuapp.com/) I0 - I4
+* [Tshepo Mohlamonyane's solution](https://github.com/blavkboy/project_ruby.git) - [View in Browser](https://thawing-ocean-41384.herokuapp.com/) I0 - I5
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
