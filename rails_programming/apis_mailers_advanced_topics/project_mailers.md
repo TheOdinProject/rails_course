@@ -26,6 +26,7 @@ You'll be dusting off your [Flight Booker project](/courses/ruby-on-rails/lesson
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [Jmooree30's solution](https://github.com/jmooree30/flight-booker.git) - [View in Broswer](https://powerful-wildwood-98145.herokuapp.com/)
 * [theghall's solution](https://github.com/theghall/odin-flight-booker.git)
 * [Clayton Sweeten's solution](https://github.com/cjsweeten101/odin-flight-booker)
 * [Jonathan Yiv's solution](https://github.com/JonathanYiv/flight-booker) - [View in Browser](https://fast-gorge-36383.herokuapp.com)
