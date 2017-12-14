@@ -95,7 +95,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Sophia Wu's solution](https://github.com/SophiaLWu/book-of-faces) - [View in browser](https://frozen-sands-98166.herokuapp.com/)
 * [Jerry Gao's solution](https://github.com/blackwright/tracebook) - [View in browser](https://tracebook.herokuapp.com/)
 * [Austin's solution](https://github.com/CouchofTomato/odinbook) - [View in browser](https://couch-odinbook.herokuapp.com)
-
+* [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/tree/master/rails/fakebook_app) - [View in browser](https://fm-fakebook.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
