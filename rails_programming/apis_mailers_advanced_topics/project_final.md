@@ -101,3 +101,4 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
 
 * For another take on this, here's a [gem-laden Facebook clone](https://github.com/vysakh0/railsbook).
+* For an alternative to using AWS S3 for image storage take a look at this [cloudinary](https://github.com/GoGoCarl/paperclip-cloudinary)
