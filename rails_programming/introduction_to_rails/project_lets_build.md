@@ -70,6 +70,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Luján Fernaud's solution](https://github.com/lujanfernaud/ruby-rest-client)
 * [Francisco Carlos's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/rest_client)
 * [Anistor86's solution](https://github.com/anistor86/RESTClient)
+* [Oliver Curting's solution](https://github.com/Curting/rest-client)
 
 
 ### Project: Ruby on Rails Tutorial

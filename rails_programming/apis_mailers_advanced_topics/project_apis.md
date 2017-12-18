@@ -159,6 +159,7 @@ Remember way back in the warm-up when you played with the Flickr API?  Now it's 
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [Jmooree30's solution](https://github.com/jmooree30/odin-api.git) - [View in browser](https://lit-bastion-68220.herokuapp.com/)
 * [theghall's solution](https://github.com/theghall/odin-flickr.git)
 * [Clayton Sweeten's solution](https://github.com/cjsweeten101/odin-flickr)
 * [Jonathan Yiv's solution](https://github.com/JonathanYiv/flickr-api)

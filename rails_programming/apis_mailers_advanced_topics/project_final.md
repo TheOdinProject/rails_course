@@ -56,6 +56,7 @@ Keep the following requirements in mind.  We'll cover specific steps to get star
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [Jmooree30's solution](https://github.com/jmooree30/jakebook) - [View in Browser](https://fast-citadel-52170.herokuapp.com/)
 * [Jonathan Yiv's solution](https://github.com/JonathanYiv/odinbook) - [View in Browser](https://serene-coast-95388.herokuapp.com)
 * [leosoaivan's solution](https://github.com/leosoaivan/TOP_ror_odinfb) - [View in browser](https://obscure-springs-25850.herokuapp.com/)
 * [adsy430's soluction](https://github.com/adampal/facebook-clone) - [Fakebook](https://peaceful-everglades-48148.herokuapp.com/)
@@ -95,9 +96,10 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Sophia Wu's solution](https://github.com/SophiaLWu/book-of-faces) - [View in browser](https://frozen-sands-98166.herokuapp.com/)
 * [Jerry Gao's solution](https://github.com/blackwright/tracebook) - [View in browser](https://tracebook.herokuapp.com/)
 * [Austin's solution](https://github.com/CouchofTomato/odinbook) - [View in browser](https://couch-odinbook.herokuapp.com)
-
+* [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/tree/master/rails/fakebook_app) - [View in browser](https://fm-fakebook.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
 
 * For another take on this, here's a [gem-laden Facebook clone](https://github.com/vysakh0/railsbook).
+* For an alternative to using AWS S3 for image storage take a look at this [cloudinary](https://github.com/GoGoCarl/paperclip-cloudinary)
