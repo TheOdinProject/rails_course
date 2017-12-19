@@ -130,6 +130,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [holdercp's solution](https://github.com/holdercp/micro-reddit)
 * [jfonz412's solution](https://github.com/jfonz412/micro-reddit)
 * [nmac's solution](https://github.com/nmacawile/micro-reddit)
+* [Devon's solution](https://github.com/defitjo/micro-reddit)
 * [ToTenMilan's solution](https://github.com/ToTenMilan/the_odin_project/tree/master/rails/micro-reddit)
 * [Orlando's Solution](https://github.com/orlandodan14/Ruby-on-Rails/tree/master/Micro_reddit)
 * [RichJDSmith's Solution](https://github.com/richjdsmith/micro-reddit)
