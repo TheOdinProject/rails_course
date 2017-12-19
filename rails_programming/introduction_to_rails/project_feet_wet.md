@@ -114,6 +114,7 @@ If you will be submitting a solution for the RoR tutorial chapter 2, make sure i
 * [Anistor86's solution](https://github.com/anistor86/toy_app) - [Heroku](https://polar-tor-29313.herokuapp.com)
 * [CurmudJim's solution](https://github.com/CurmudJim/toy_app) - [Heroku](https://toy-jim.herokuapp.com/)
 * [Oliver Curting's solution](https://github.com/Curting/toy_app)
+* [Jeff Jubin's solution](https://github.com/jeff1st/toy_app)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
