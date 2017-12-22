@@ -177,6 +177,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Jakub Peikert's solution](https://github.com/JPeikert/odin_project/tree/master/rails/forms/re-former)
 * [Joe Himes's solution](https://github.com/deedle42/re-former.git)
 * [DV's solution](https://github.com/dvislearning/re-former)
+* [Devon's solution](https://github.com/defitjo/re-former)
 * [Mateusz Staszczyk's solution](https://github.com/sleaz0id/re-former)
 * [Dckwong's solution](https://github.com/dckwong/re-former)
 * [at0micr3d's solution](https://github.com/at0micr3d/re-former)
