@@ -56,6 +56,7 @@ Keep the following requirements in mind.  We'll cover specific steps to get star
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [theghall's solution](https://github.com/theghall/odin-facebook.git) - [View in Browser](https://cryptic-badlands-84674.herokuapp.com/)
 * [Deetss' solution](https://github.com/Deetss/Fakebook) - [View in Browser](https://deetss-fakebook.herokuapp.com)
 * [Jmooree30's solution](https://github.com/jmooree30/jakebook) - [View in Browser](https://fast-citadel-52170.herokuapp.com/)
 * [Jonathan Yiv's solution](https://github.com/JonathanYiv/odinbook) - [View in Browser](https://serene-coast-95388.herokuapp.com)
