@@ -4,7 +4,7 @@ In this project, you'll get a chance to interact with a Rails application from t
 
 There's a lot of steps but it's actually quite straightforward.
 
-### Assignment
+### Your Task
 
 <div class="lesson-content__panel" markdown="1">
 
@@ -78,7 +78,7 @@ In this chapter of the tutorial you will build out the look and feel of the appl
 
 Bootstrap will do a lot of the heavy lifting for you -- instead of having to figure out how to make your navbar stick to the top of the screen, you just have to put the correct class onto some `<div>` tags and Bootstrap's style files will take over for you.  It's a good way to quickly get something half decent up and running.  In the course on HTML and CSS, you'll get the chance to design your own CSS framework, but for now Bootstrap is a good weapon of choice.
 
-### Assignment
+### Your Task
 
 <div class="lesson-content__panel" markdown="1">
   1. Do the [Rails Tutorial Chapter 5](https://www.railstutorial.org/book/filling_in_the_layout), "Filling in the Layout"

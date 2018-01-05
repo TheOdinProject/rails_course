@@ -8,7 +8,7 @@ We're starting to get into the meaty stuff with the tutorial.  Take your time an
 
 You'll implement signin and signout functionality for the user, which opens the door to allow more destructive user behaviors like editing and deleting things (which should only be allowed for a given user or admin).  In Chapter 10, you'll get the chance to implement these functions.
 
-### Assignment
+### Your Task
 
 <div class="lesson-content__panel" markdown="1">
   1. Do the [Ruby on Rails Tutorial Chapter 8](https://www.railstutorial.org/book/basic_login), "Basic Login"
@@ -26,7 +26,7 @@ This will be a chance for you to "roll your own" authentication system, very sim
 
 It's easy to feel a bit overwhelmed by building your own authentication.  That's because there are several moving parts -- the session controller/form, hanging onto and refreshing the remember token when necessary, and using that token to check up on the current user.  It may help if you write out the steps as you understand them prior to getting started, so you know what you're shaky on and will need to pay attention to.
 
-### Assignment
+### Your Task
 
 The projects will be less and less explicit about how to achieve their goals, since we expect you to build on your previous knowledge.  If you don't know how to do something, feel free to check back in previous lessons or projects or Google the correct way to implement it (though be careful, because that may take you deeper down the road than we intended).  The Ruby on Rails Tutorial will be a good reference.
 

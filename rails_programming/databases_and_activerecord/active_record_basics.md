@@ -46,17 +46,6 @@ u = User.create(name: "Sven", email: "sven@theodinproject.com")
 
 This saves you time, but, as you'll see later, you'll sometimes want to separate them in your application.
 
-### Assignment
-
-That was really just a teaser about what Active Record can do. In the reading below, you'll learn about how to specifically interact with Active Record in your models.  
-
-<div class="lesson-content__panel" markdown="1">
-  1. I'm assuming that you've already read and followed along with the example application that was created in the [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html) intro section of the Rails Guides.  If you haven't, do that first!
-  2. Read the [Active Record Basics](http://guides.rubyonrails.org/active_record_basics.html) section of the Rails Guides.  
-      * We'll go more into Migrations and Validations in the next section and in the lesson on Callbacks later in the course.
-      * Model files in Rails live in the `app/models` folder and are just normal .rb files.  The key points are that the file and the class name is named after the table in your database (but singular), and that class inherits from ActiveRecord::Base to get its super powers.
-</div>
-
 ### Migrations
 
 #### When You Need Them
@@ -106,15 +95,6 @@ Migrations don't involve writing SQL, but you do need to understand enough about
 
 These are great questions, and you should feel comfortable asking them even if you aren't totally sure about the answers.  If you have no idea what I'm talking about, you'll need to go back and read up on basic databases in the [previous lesson](/courses/web-development-101/lessons/databases).
 
-#### Assignment
-
-<div class="lesson-content__panel" markdown="1">
-  1. Read the [Migrations chapter of Rails Guides](http://edgeguides.rubyonrails.org/active_record_migrations.html).  
-      * Don't worry about 3.6-3.8.
-      * Just skim section 7.
-      * Seeds (section 8) are useful and you'll be using them later.  It saves you a lot of work, especially when you're learning and will end up blowing away your database and starting over a lot.
-</div>
-
 ### Basic Validations
 
 Imagine you've got your database up and running and want to make sure that the data people are sending to your database is good data.  For instance, to create an account on your site, a user needs to enter both a username and an email address.  How do you enforce this?
@@ -128,15 +108,6 @@ This is more secure than JavaScript but has the disadvantage of taking a full ro
 Another problem occurs when your application has scaled up to the point where you are running multiple instances of it on multiple servers that all talk to the same central database.  Let's say you want to make sure a username is unique... what happens if two users almost simultaneously submit the same username and it is received by two separate concurrent instances of your application?  When each instance of your application checks with the database to see if the username is unique, both times it looks okay so they both go ahead and save the model... oops!  That may not sound plausible, but how about in rapidly occurring automated transactions?  These "race conditions" are very real.
 
 So the only way to truly enforce constraints is on the database level, since your single database is the sole arbiter of what is unique and valid in this world.  You can use extra parameters passed to some of the now-familiar migration methods like `add_index` to say `add_index :users, :username, unique: true`, which enforces in the most secure way that the column is unique.  Again, though, most of your validations can be implemented in your Rails application's models.
-
-### Assignment
-
-<div class="lesson-content__panel" markdown="1">
-  1. Read the [Rails Guides Validations chapter](http://guides.rubyonrails.org/active_record_validations.html)
-      * Section 2 on helpers can be skimmed -- these help you get more specific with your validations and you'll run into them later
-      * You can skim section 6 about custom validators
-      * Section 8 will likely only be interesting if you've seen ERB in rails views before... we'll get there.
-</div>
 
 ### Basic Associations
 
@@ -160,8 +131,31 @@ Pretty soon you'll start thinking of the world around you in terms of these rela
 
 If you're a normal human, you're probably somewhere between "huh?" and "I hate you, stop teaching me stuff".  Stick with it, the point here is to get you thinking of how to model relationships and give you exposure to them.  The project will give you an opportunity to actually build what you've been learning and it should be a lot better once you've had that chance.
 
+That was really just a teaser about what Active Record can do. In the reading below, you'll learn about how to specifically interact with Active Record in your models and go deeper into the other topics covered.  
+
 <div class="lesson-content__panel" markdown="1">
-  1. Read the beginning of the [Rails Guides Associations Chapter](http://guides.rubyonrails.org/association_basics.html), just up until section 2.7.  Everything after that we can save for later... the important thing is that you've seen the relationships and how they're set up.
+
+### Basic Active Record
+
+1. I'm assuming that you've already read and followed along with the example application that was created in the [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html) intro section of the Rails Guides. If you haven't, do that first!
+2. Read the [Active Record Basics](http://guides.rubyonrails.org/active_record_basics.html) section of the Rails Guides.  
+    * We'll go more into Migrations and Validations in the next section and in the lesson on Callbacks later in the course.
+    * Model files in Rails live in the `app/models` folder and are just normal .rb files.  The key points are that the file and the class name is named after the table in your database (but singular), and that class inherits from ActiveRecord::Base to get its super powers.
+
+### Migrations
+1. Read the [Migrations chapter of Rails Guides](http://edgeguides.rubyonrails.org/active_record_migrations.html).  
+    * Don't worry about 3.6-3.8.
+    * Just skim section 7.
+    * Seeds (section 8) are useful and you'll be using them later.  It saves you a lot of work, especially when you're learning and will end up blowing away your database and starting over a lot.
+
+### Validations
+1. Read the [Rails Guides Validations chapter](http://guides.rubyonrails.org/active_record_validations.html)
+    * Section 2 on helpers can be skimmed -- these help you get more specific with your validations and you'll run into them later
+    * You can skim section 6 about custom validators
+    * Section 8 will likely only be interesting if you've seen ERB in rails views before... we'll get there.
+
+### Associations
+1. Read the beginning of the [Rails Guides Associations Chapter](http://guides.rubyonrails.org/association_basics.html), just up until section 2.7.  Everything after that we can save for later... the important thing is that you've seen the relationships and how they're set up.
 </div>
 
 ### Conclusion

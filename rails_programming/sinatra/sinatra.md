@@ -25,7 +25,7 @@ create a file called `frank_says.rb` with the following code:
 
 ~~~ruby
   require 'sinatra'
-  
+
   get '/frank-says' do
     'Put this in your pipe & smoke it!'
   end

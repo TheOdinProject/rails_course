@@ -4,7 +4,7 @@ This is really a warmup -- you'll get a chance to poke around HTTP requests from
 
 You may find yourself using Rest Client down the road if you need to communicate with another web service that doesn't have an API library already written out for you (which is pretty rare these days).  Or if you get the inclination to test your own API from the command line later.
 
-### Assignment
+### Your Task
 
 <div class="lesson-content__panel" markdown="1">
 1. Make sure that you've got Rest Client installed, do a `$ gem install rest-client`
@@ -136,7 +136,7 @@ The second line `assert_response :success`, makes sure that the home page return
 
 If you're already scratching your head, don't worry (like I said, better explanations exist than mine).  The tutorial will cover testing along the way.  Hopefully your mind is warmed up right now and you won't be ambushed by suddenly being confronted with it.
 
-### Assignment
+### Your Task
 
 <div class="lesson-content__panel" markdown="1">
 1. If you'd still like a refresher on testing basics, check out [An Introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec) from Treehouse.
