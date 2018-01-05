@@ -40,7 +40,7 @@ Note: I'll include the `:id`, `:created_at` and `:updated_at` columns but you ca
 
 Use whatever format feels best to you.
 
-### Assignment
+### Data Model Task
 
 For each of the following scenarios, write down the models, columns, validations and associations you might use to implement it.  Some of these are more difficult than others and you'll have to use a bit of creativity to infer which columns might need to be present for the scenario to make sense in the real world.
 
@@ -59,7 +59,7 @@ Remember, if you feel like you will be hard coding data multiple times, it's pro
 
 This chapter of the tutorial will give you a chance to start working with the database and models.  It will guide you through setting up your first database migrations, making sure your user inputs are properly validated, and how to add a secure password to your User model.
 
-### Assignment
+### Your Task
 <div class="lesson-content__panel" markdown="1">
   1. Do the [Ruby on Rails Tutorial chapter 6](https://www.railstutorial.org/book/modeling_users), "Modeling Users".
 </div>
@@ -68,7 +68,7 @@ This chapter of the tutorial will give you a chance to start working with the da
 
 Let's build [Reddit](http://reddit.com).  Well, maybe a very junior version of it called `micro-reddit`.  In this project, you'll build the data structures necessary to support link submissions and commenting.  We won't build a front end for it because we don't need to... you can use the Rails console to play around with models without the overhead of making HTTP requests and involving controllers or views.
 
-### Assignment
+### Your Task
 
 <div class="lesson-content__panel" markdown="1">
 

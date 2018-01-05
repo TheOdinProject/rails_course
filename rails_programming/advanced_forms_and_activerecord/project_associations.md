@@ -18,7 +18,7 @@ The basic gist of it is that, to have a microposting site like Twitter, you've g
 
 As with the previous chapter, just make sure you're writing the test specs in the correct files and stick with it.  There's a lot of ground to cover but, again, the conceptual hurdles should be well within reach at this point.
 
-### Assignment
+### Your Task
 
 <div class="lesson-content__panel" markdown="1">
   * Do the [Ruby on Rails Tutorial Chapter 13](https://www.railstutorial.org/book/user_microposts), "User microposts".
@@ -30,7 +30,7 @@ You want to build a site similar to a private [Eventbrite](http://www.eventbrite
 
 A user can create events.  A user can attend many events. An event can be attended by many users. This will require you to model many-to-many relationships and also to be very conscious about your foreign keys and class names (hint: you won't be able to just rely on Rails' defaults like you have before).
 
-### Assignment
+### Your Task
 
 We've gotten quite far here, so these tasks will only lay out the high level overview of what you're meant to build.  You'll need to implement the details yourself.  As usual, it's not meant to look pretty, just work.  Design is all extra credit.
 
