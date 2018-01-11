@@ -291,6 +291,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [tonalmasher's solution](https://github.com/tonalmasher/blogger-jumpstart) - [View in Browser](https://radiant-stream-12878.herokuapp.com/) I0 - I4
 * [Tshepo Mohlamonyane's solution](https://github.com/blavkboy/project_ruby.git) - [View in Browser](https://thawing-ocean-41384.herokuapp.com/) I0 - I5
 * [Alexander Luna's solution](https://github.com/Mycroft1891/rails-blogger) - [View in Browser](https://immense-cove-36319.herokuapp.com/) 10 - 16
+* [Niko Caron's solution](https://github.com/ncaron/blogger) - [View in Browser](https://gentle-earth-64702.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
