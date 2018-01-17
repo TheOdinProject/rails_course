@@ -169,7 +169,7 @@ So our `#create` action above can now be filled out a bit more:
 
 The last piece of code we need to write there is how to set our special messages for the user.  Rails gives you a neat tool for sending success and error messages (like the little green message that briefly appears at the top of an application to congratulate you for signing up) called the "flash".  It acts just like a hash -- you can set its keys to a specific message and then that will be available for you to access if you want to display it in your views.
 
-You can use any keys you want for the flash, but it's conventional to just stick to three, `:success`, `:error`, and `:notify`.  So the success message above might look like `flash[:success] = "Great! Your post has been created!"`.
+You can use any keys you want for the flash, but it's conventional to just stick to three, `:success`, `:error`, and `:notice`.  So the success message above might look like `flash[:success] = "Great! Your post has been created!"`.
 
 The reason you can use any key is because you will have to write a snippet of code in your view anyway to display the flash, but sticking to the conventional ones is good practice.  The other sneaky trick with the flash is that it automatically erases itself once you've used it, so you don't have to worry about it displaying every time you visit a new page... one time use.  Like [Snapchat](http://www.snapchat.com/).
 
