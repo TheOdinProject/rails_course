@@ -28,6 +28,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 If you will be submitting a solution for the RoR tutorial chapter 2, make sure it's in a repo that you won't overwrite when we move onto chapter 3 (which starts a new app)
 
 * Add your solution below this line!
+* [Silvan Renggli's solution](https://github.com/SilvanRenggli/ToyApp) - [Live](https://protected-atoll-66261.herokuapp.com/)
 * [rghost's solution](https://github.com/MariaTikhonova/toy_app)
 * [Jmooree30's solution](https://github.com/jmooree30/Rails-toy-app.git) - [Live](https://mysterious-wave-57564.herokuapp.com/)
 * [Kasey Z's solution](https://github.com/kasey-z/toy_app) - [Live](https://tranquil-brook-79304.herokuapp.com/)
