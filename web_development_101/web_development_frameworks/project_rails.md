@@ -295,6 +295,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Alexander Luna's solution](https://github.com/Mycroft1891/rails-blogger) - [View in Browser](https://immense-cove-36319.herokuapp.com/) 10 - 16
 * [Niko Caron's solution](https://github.com/ncaron/blogger) - [View in Browser](https://gentle-earth-64702.herokuapp.com/)
 * [Jakub Cisowski's Solution](https://github.com/arashin1337/blogger) - [View in Browser](https://salty-savannah-38204.herokuapp.com/) I0-I5
+* [georich's solution](https://github.com/georich/blogger_app)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
