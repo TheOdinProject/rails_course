@@ -90,6 +90,7 @@ This project may seem simple, but now you've got a website that is both a normal
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [nmac's solution](https://github.com/nmacawile/odin-kittens)
 * [brxck's solution](https://github.com/brxck/kittens-api)
 * [Jmooree30's solution](https://github.com/jmooree30/odin-kittens.git)
 * [theghall's solutions](https://github.com/theghall/odin-kittens.git)
@@ -160,6 +161,7 @@ Remember way back in the warm-up when you played with the Flickr API?  Now it's 
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [nmac's solution](https://github.com/nmacawile/flickr-browsr) - [Heroku](https://ancient-coast-53530.herokuapp.com/?user=flickr)
 * [brxck's solution](https://github.com/brxck/flickr-viewer) - [View in browser](https://protected-sea-14480.herokuapp.com/)
 * [Jmooree30's solution](https://github.com/jmooree30/odin-api.git) - [View in browser](https://lit-bastion-68220.herokuapp.com/)
 * [theghall's solution](https://github.com/theghall/odin-flickr.git)
