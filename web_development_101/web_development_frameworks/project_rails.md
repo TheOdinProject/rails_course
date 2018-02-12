@@ -296,6 +296,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Niko Caron's solution](https://github.com/ncaron/blogger) - [View in Browser](https://gentle-earth-64702.herokuapp.com/)
 * [Jakub Cisowski's Solution](https://github.com/arashin1337/blogger) - [View in Browser](https://salty-savannah-38204.herokuapp.com/) I0-I5
 * [georich's solution](https://github.com/georich/blogger_app)
+* [Bridget Nyirongo's solution](https://github.com/Bridget12/blogger2)[View in Browser](https://blooming-badlands-74595.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
