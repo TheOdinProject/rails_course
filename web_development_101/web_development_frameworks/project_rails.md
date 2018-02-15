@@ -298,6 +298,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [georich's solution](https://github.com/georich/blogger_app)
 * [Bridget Nyirongo's solution](https://github.com/Bridget12/blogger2)[View in Browser](https://blooming-badlands-74595.herokuapp.com/)
 * [Josiah's solution](https://github.com/jdonor/blogger) - [View in Browser](https://fierce-mesa-65202.herokuapp.com/)
+* [HSaad's solution](https://github.com/HSaad/blogger) - [View in Browser](https://mighty-crag-22918.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
