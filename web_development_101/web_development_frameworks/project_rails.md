@@ -23,6 +23,7 @@ Because you'll be doing so much stuff that we haven't taught you yet, this is a 
 Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
+* [Javier Machin's solution](https://github.com/Javier-Machin/Rails-blogger) -[View in browser](https://fast-ridge-98614.herokuapp.com/)
 * [Samuel Masters' solution](https://github.com/redeyetuning/blogger2) - [View in browser](https://shrouded-beach-92695.herokuapp.com/)
 * [Fabien Kovacic's solution](https://github.com/Fabious/rails-blogger-tutorial) - [View in browser](https://young-reef-38865.herokuapp.com/)
 * [Mat's solution](https://github.com/mateus-reno/blogger) - [View in browser](https://warm-dusk-47417.herokuapp.com/)
