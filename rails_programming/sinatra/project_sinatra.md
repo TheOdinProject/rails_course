@@ -11,7 +11,7 @@ Deploying a Sinatra app to Heroku takes a little bit of work but the process is 
 
 ### Project 1: Caesar Cipher _reloaded_
 
-Revisit the caesar cipher ruby script that you created during [Ruby Building Blocks](http://www.theodinproject.com/ruby-programming/building-blocks) and use Sinatra to create a simple front-end for it.
+Revisit the caesar cipher ruby script that you created during [Ruby Building Blocks](https://www.theodinproject.com/courses/ruby-programming/lessons/ruby-building-blocks) and use Sinatra to create a simple front-end for it.
 
 ### Your Task
 
