@@ -112,6 +112,7 @@ If you will be submitting a solution for the RoR tutorial chapter 2, make sure i
 * [CurmudJim's solution](https://github.com/CurmudJim/toy_app) - [Heroku](https://toy-jim.herokuapp.com/)
 * [Oliver Curting's solution](https://github.com/Curting/toy_app)
 * [Jeff Jubin's solution](https://github.com/jeff1st/toy_app)
+* [Bridget Nyirongo's solution](https://github.com/Bridget12/toy_app) - [Heroku-Live](https://toyapp56.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
