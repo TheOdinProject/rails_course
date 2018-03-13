@@ -302,6 +302,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Josiah's solution](https://github.com/jdonor/blogger) - [View in Browser](https://fierce-mesa-65202.herokuapp.com/)
 * [HSaad's solution](https://github.com/HSaad/blogger) - [View in Browser](https://mighty-crag-22918.herokuapp.com/)
 * [Aziz Yakubov's Solution](https://github.com/azizyakubov/blogger) - [View in Browser](https://vast-tor-32837.herokuapp.com/)
+[Djokole's Solution](https://github.com/djokole/blogger) - [View in Browser](https://arcane-basin-36814.herokuapp.com/)
 
 
 ### Additional Resources
