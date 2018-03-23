@@ -303,7 +303,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [HSaad's solution](https://github.com/HSaad/blogger) - [View in Browser](https://mighty-crag-22918.herokuapp.com/)
 * [Aziz Yakubov's Solution](https://github.com/azizyakubov/blogger) - [View in Browser](https://vast-tor-32837.herokuapp.com/)
 * [Djokole's Solution](https://github.com/djokole/blogger) - [View in Browser](https://arcane-basin-36814.herokuapp.com/)
-
+* [Punnadittr's Solution](https://github.com/punnadittr/blogger) - [View in Browser](https://floating-sea-99080.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
