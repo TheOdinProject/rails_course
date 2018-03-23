@@ -25,6 +25,7 @@ Revisit the caesar cipher ruby script that you created during [Ruby Building Blo
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* Isil Donmez's solution[Github](https://github.com/isildonmez/Caesar-Cipher)[Live](https://caesar-cipher-.herokuapp.com/)
 * 0zra's Solution [Github](https://github.com/0zra/heroku_caesar) - [Live](https://gentle-falls-67644.herokuapp.com/)
 * Ovsjah Schweinefresser's Solution [Github](https://github.com/Ovsjah/caesar_cipher_reloaded) - [Live](https://peaceful-sea-47272.herokuapp.com/)
 * Lucas Bicudo's Solution [Github](https://github.com/lucbic/cipher) - [Live](https://lit-tor-29929.herokuapp.com/)
@@ -101,6 +102,7 @@ Pick either Mastermind or Hangman and build a front end for it.  This one might 
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* Isil Donmez's solution(Hangman)[Github](https://github.com/isildonmez/hangman_reloaded)[Live](https://hangman-reloaded.herokuapp.com/)
 * Ovsjah Schweinefresser's Solution (Hangman) [Github](https://github.com/Ovsjah/hangman_on_web) - [Live](https://warm-inlet-77219.herokuapp.com/game)
 * Lucas Bicudo's Solution (Hangman) [Github](https://github.com/lucbic/hangman) - [Live](https://lit-garden-60308.herokuapp.com/)
 * Jmooree30's solution (Hangman) [Github](https://github.com/jmooree30/Sinatra_hangman.git) - [Live](https://gentle-waters-29359.herokuapp.com/)
