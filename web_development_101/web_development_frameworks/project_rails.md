@@ -305,6 +305,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Djokole's Solution](https://github.com/djokole/blogger) - [View in Browser](https://arcane-basin-36814.herokuapp.com/)
 * [Punnadittr's Solution](https://github.com/punnadittr/blogger) - [View in Browser](https://floating-sea-99080.herokuapp.com/)
 * [Encolpius's Solution](https://github.com/Encolpius/odin-blogger) - [View in Browser](https://blooming-oasis-31140.herokuapp.com/)
+* [cartwheeler's Solution](https://github.com/cartwheeler/ruby_on_rails_first_project/) - [View in Browser](https://fathomless-everglades-11272.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
