@@ -67,6 +67,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [DV's Solution](https://github.com/dvislearning/odin-flight-booker)
 * [Sophia Wu's Solution](https://github.com/SophiaLWu/flight-booker) - [View in Browser](https://infinite-fortress-13459.herokuapp.com/)
 * [Daniel Aguilar's Solution](https://github.com/danaguilar/odin-flight-booker)
+* [Francisco's Solution](https://github.com/fcarlosdev/the_odin_project/tree/master/odin-flight-booker)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
