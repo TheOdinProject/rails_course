@@ -23,6 +23,7 @@ Because you'll be doing so much stuff that we haven't taught you yet, this is a 
 Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
+* [Bojana Karakacev's Solution](https://github.com/bojana12/ruby_on_rails_project) - [View in browser](https://sheltered-caverns-34415.herokuapp.com/)
 * [Adrien Pardo's Solution](https://github.com/Shieboo/blogger) - [View in browser](https://polar-scrubland-73662.herokuapp.com/)
 * [Ryafl's solution](https://github.com/ryafl/blogger) - [View in browser](https://powerful-reaches-67853.herokuapp.com/)
 * [Javier Machin's solution](https://github.com/Javier-Machin/Rails-blogger) -[View in browser](https://fast-ridge-98614.herokuapp.com/)
