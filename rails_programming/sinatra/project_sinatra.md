@@ -25,6 +25,7 @@ Revisit the caesar cipher ruby script that you created during [Ruby Building Blo
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* Javier Machin's solution[Github](https://github.com/Javier-Machin/caesar_cipher_app)[Live](https://secret-sands-76856.herokuapp.com/)
 * Isil Donmez's solution[Github](https://github.com/isildonmez/Caesar-Cipher)[Live](https://caesar-cipher-.herokuapp.com/)
 * 0zra's Solution [Github](https://github.com/0zra/heroku_caesar) - [Live](https://gentle-falls-67644.herokuapp.com/)
 * Ovsjah Schweinefresser's Solution [Github](https://github.com/Ovsjah/caesar_cipher_reloaded) - [Live](https://peaceful-sea-47272.herokuapp.com/)
@@ -102,6 +103,7 @@ Pick either Mastermind or Hangman and build a front end for it.  This one might 
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* Javier Machin's solution (Hangman)[Github](https://github.com/Javier-Machin/hangman_app)[Live](https://whispering-woodland-74608.herokuapp.com/)
 * 0zra's solution (Mastermind)[Github](https://github.com/0zra/heroku_mastermind)
 * Roman Alenskiy's solution (Hangman) [Github](https://github.com/Roman-Alenskiy/web_hangman) / [Heroku](https://web-hangman.herokuapp.com/)
 * Isil Donmez's solution(Hangman)[Github](https://github.com/isildonmez/hangman_reloaded)[Live](https://hangman-reloaded.herokuapp.com/)
