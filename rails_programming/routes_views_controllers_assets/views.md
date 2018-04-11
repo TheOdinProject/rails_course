@@ -99,7 +99,7 @@ Pulling back a bit, partials are just HTML files that aren't meant to be complet
   # app/views/users/new.html.erb
   <div class="new-user-form">
     <%= render "user_form" %>
-  <div>
+  </div>
 ~~~
 
 There are a couple of syntax oddities you need to pay attention to.  The view partial file is named with an underscore like `_user_form.html.erb` but gets called using just the core portion of the name, e.g. `user_form` in the example above.  
@@ -203,7 +203,7 @@ Will render something like:
 
 ~~~html
   <link href="/assets/your_stylesheet.css" media="all" rel="stylesheet">
-  <script src="/assets/your_stylesheet.js"></script>
+  <script src="/assets/your_javascript.js"></script>
   <img src="/assets/happy_cat.jpg">
 ~~~
 
