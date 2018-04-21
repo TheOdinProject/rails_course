@@ -127,7 +127,7 @@ A key distinction here is that we're not talking about how many Post objects a U
 
 Pretty soon you'll start thinking of the world around you in terms of these relationships (if you don't take enough breaks).  The real power of them comes when you actually need to use them -- when you want to retrieve data about all the objects that are associated with another.  Do you want to see a list of all your Twitter followers?  Do you want to count up all the classmates you had from high school who are living in the same city as you now?  Do you want to see all the comments one of your users left on another user's timelines?  All of these things are relatively simple and intuitive once you've actually set up the appropriate data relationships.  So focus on understanding these relationships.
 
-#### Assignment
+### Assignment
 
 If you're a normal human, you're probably somewhere between "huh?" and "I hate you, stop teaching me stuff".  Stick with it, the point here is to get you thinking of how to model relationships and give you exposure to them.  The project will give you an opportunity to actually build what you've been learning and it should be a lot better once you've had that chance.
 
@@ -135,26 +135,26 @@ That was really just a teaser about what Active Record can do. In the reading be
 
 <div class="lesson-content__panel" markdown="1">
 
-### Basic Active Record
+#### Basic Active Record
 
 1. I'm assuming that you've already read and followed along with the example application that was created in the [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html) intro section of the Rails Guides. If you haven't, do that first!
 2. Read the [Active Record Basics](http://guides.rubyonrails.org/active_record_basics.html) section of the Rails Guides.  
     * We'll go more into Migrations and Validations in the next section and in the lesson on Callbacks later in the course.
     * Model files in Rails live in the `app/models` folder and are just normal .rb files.  The key points are that the file and the class name is named after the table in your database (but singular), and that class inherits from ActiveRecord::Base to get its super powers.
 
-### Migrations
+#### Migrations
 1. Read the [Migrations chapter of Rails Guides](http://edgeguides.rubyonrails.org/active_record_migrations.html).  
     * Don't worry about 3.6-3.8.
     * Just skim section 7.
     * Seeds (section 8) are useful and you'll be using them later.  It saves you a lot of work, especially when you're learning and will end up blowing away your database and starting over a lot.
 
-### Validations
+#### Validations
 1. Read the [Rails Guides Validations chapter](http://guides.rubyonrails.org/active_record_validations.html)
     * Section 2 on helpers can be skimmed -- these help you get more specific with your validations and you'll run into them later
     * You can skim section 6 about custom validators
     * Section 8 will likely only be interesting if you've seen ERB in rails views before... we'll get there.
 
-### Associations
+#### Associations
 1. Read the beginning of the [Rails Guides Associations Chapter](http://guides.rubyonrails.org/association_basics.html), just up until section 2.7.  Everything after that we can save for later... the important thing is that you've seen the relationships and how they're set up.
 </div>
 
