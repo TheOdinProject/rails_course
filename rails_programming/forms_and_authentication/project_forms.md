@@ -31,7 +31,7 @@ The first form you build will be mostly HTML (remember that stuff at all?).  Bui
 
 1. Build a form for creating a new user.  See the [w3 docs for forms](http://www.w3schools.com/tags/tag_form.asp) if you've totally forgotten how they work.  Specify the `method` and the `action` attributes in your `<form>` tag (use `$ rake routes` to see which HTTP method and path are being expected based on the resource you created).  Include the attribute `accept-charset="UTF-8"` as well, which Rails naturally adds to its forms to specify Unicode character encoding.
 2. Create the proper input tags for your user's fields (email, username and password).  Use the proper password input for "password".  Be sure to specify the `name` attribute for these inputs.  Make label tags which correspond to each field.
-3. Submit your form and view the server output.  Oops, we don't have the right CSRF authenticity token (`ActionController::InvalidAuthenticityToken`) to protect against cross site scripting attacks and form hijacking.
+3. Submit your form and view the server output.  Oops, we don't have the right CSRF authenticity token (`ActionController::InvalidAuthenticityToken`) to protect against cross site scripting attacks and form hijacking. If you do not get an error, you used the wrong `method` from step 1.
 4. Include your own authenticity token by adding a special hidden input and using the `#form_authenticity_token` method.  This method actually checks the session token that Rails has stored for that user (behind the scenes) and puts it into the form so it's able to verify that it's actually you submitting the form.  It might look like:
 
    ~~~html
