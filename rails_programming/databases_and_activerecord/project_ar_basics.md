@@ -120,6 +120,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 
 * Add your solution below this line!
 * [0zra's solution](https://github.com/0zra/micro-reddit)
+* [Javier Machin's Solution](https://github.com/Javier-Machin/micro-reddit)
 * [Omar Moataz's Solution](https://github.com/OmarMoataz/micro-reddit)
 * [Raiko's Solution](https://github.com/Cypher0/micro-reddit)
 * [theghall's solution](https://github.com/theghall/odin-micro-reddit.git)
