@@ -94,7 +94,7 @@ The tutorial covers more specifically the practice of "Test Driven Development",
 
 ### A Simple Test Example
 
-This is an example (listing 3.22) from the tutorial:
+This is an example (listing 3.15) from the tutorial:
 
 ~~~ruby
     # test/controllers/static_pages_controller_test.rb
