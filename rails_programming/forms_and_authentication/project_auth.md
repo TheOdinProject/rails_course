@@ -96,6 +96,7 @@ This is obviously a somewhat incomplete solution... We currently need to create 
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [Javier Machin's solution](https://github.com/Javier-Machin/members-only)
 * [theghall's solution](https://github.com/theghall/odin-members-only.git)
 * [Jmooree30's solution](https://github.com/jmooree30/members_only.git) | [View in browser](https://sheltered-chamber-33561.herokuapp.com/)
 * [Coconatsuki's solution](https://github.com/coconatsuki/members-only-clubhouse) | [View in browser](https://members-only-club.herokuapp.com/)
