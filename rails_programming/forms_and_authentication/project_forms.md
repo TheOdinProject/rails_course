@@ -31,7 +31,7 @@ The first form you build will be mostly HTML (remember that stuff at all?).  Bui
 
 1. Build a form for creating a new user.  See the [w3 docs for forms](http://www.w3schools.com/tags/tag_form.asp) if you've totally forgotten how they work.  Specify the `method` and the `action` attributes in your `<form>` tag (use `$ rake routes` to see which HTTP method and path are being expected based on the resource you created).  Include the attribute `accept-charset="UTF-8"` as well, which Rails naturally adds to its forms to specify Unicode character encoding.
 2. Create the proper input tags for your user's fields (email, username and password).  Use the proper password input for "password".  Be sure to specify the `name` attribute for these inputs.  Make label tags which correspond to each field.
-3. Submit your form and view the server output.  Oops, we don't have the right CSRF authenticity token (`ActionController::InvalidAuthenticityToken`) to protect against cross site scripting attacks and form hijacking.
+3. Submit your form and view the server output.  Oops, we don't have the right CSRF authenticity token (`ActionController::InvalidAuthenticityToken`) to protect against cross site scripting attacks and form hijacking. If you do not get an error, you used the wrong `method` from step 1.
 4. Include your own authenticity token by adding a special hidden input and using the `#form_authenticity_token` method.  This method actually checks the session token that Rails has stored for that user (behind the scenes) and puts it into the form so it's able to verify that it's actually you submitting the form.  It might look like:
 
    ~~~html
@@ -114,6 +114,8 @@ Now we'll start morphing our form into a full Rails form using the `#form_tag` a
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [0zra's solution](https://github.com/0zra/re-form)
+* [Javier Machin's solution](https://github.com/Javier-Machin/re-former)
 * [theghall's solution](https://github.com/theghall/odin-re-former.git)
 * [Jonathan Yiv's solution](https://github.com/JonathanYiv/re-former)
 * [Clayton Sweeten's solution](https://github.com/cjsweeten101/re-former)
@@ -189,6 +191,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Luján Fernaud's solution](https://github.com/lujanfernaud/rails-re-former)
 * [Pat's solution](https://github.com/Pat878/re-former)
 * [Francisco's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/re-former)
+* [Bridget Nyirongo's solution](https://github.com/Bridget12/re-former)
 
 ### Project 2: Ruby on Rails Tutorial
 

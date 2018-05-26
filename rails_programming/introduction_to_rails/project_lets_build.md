@@ -20,6 +20,7 @@ You may find yourself using Rest Client down the road if you need to communicate
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [Isil Donmez's solution](https://github.com/isildonmez/rest_client)
 * [Maria Tikhonova's solution](https://github.com/MariaTikhonova/odin_rails/tree/master/rest_client)
 * [Omar Moataz's solution](https://github.com/OmarMoataz/bing_console)
 * [Andrew's solution](https://github.com/andrewr224/bing-search)
@@ -93,7 +94,7 @@ The tutorial covers more specifically the practice of "Test Driven Development",
 
 ### A Simple Test Example
 
-This is an example (listing 3.22) from the tutorial:
+This is an example (listing 3.15) from the tutorial:
 
 ~~~ruby
     # test/controllers/static_pages_controller_test.rb

@@ -74,6 +74,9 @@ We've gotten quite far here, so these tasks will only lay out the high level ove
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [Javier Machin's solution](https://github.com/Javier-Machin/private-events) - [View in Browser](https://social-boost-app.herokuapp.com/)
+* [0zra's solution](https://github.com/0zra/event-planner)
+* [Raiko's solution](https://github.com/Cypher0/private-events) - [View in Browser](https://radiant-brook-28646.herokuapp.com/)
 * [Jmooree30's solution](https://github.com/jmooree30/private-events.git) - [View in Broswer](https://sleepy-wildwood-90425.herokuapp.com/)
 * [theghall's solution](https://github.com/theghall/odin-private-events.git)
 * [Clayton Sweeten's solution](https://github.com/cjsweeten101/private-events)

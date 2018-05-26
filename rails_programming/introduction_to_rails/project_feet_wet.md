@@ -17,7 +17,7 @@ In this chapter, you'll build a simple scaffolded app on Rails.  It won't be as 
 1. If you haven't already, do the [Installations project](/courses/web-development-101/lessons/installations).  If you've already got Rails on your system, it's still worth skipping to the bottom and verifying that you've got **Rails 4** (at least) and **Ruby 2** working properly.  The section says:
     Even if you didn't use the Railsbridge installation instructions, verify your installation by following their instructions for [creating a sample Rails app](http://installfest.railsbridge.org/installfest/create_a_rails_app) and then [deploying it](http://installfest.railsbridge.org/installfest/deploy_a_rails_app).
 2. If you haven't already, do the [Blogger Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html), and chapter 1 of [the Rails Tutorial](https://www.railstutorial.org/book/beginning).
-3. If you haven't done either of these, you should go back to the [Web Development 101](/courses/web-development-101) course and at least do the [Web Development Frameworks section](/courses/web-development-101/#section-web-development-frameworks).
+3. If you haven't done either of these, you should go back to the [Web Development 101](/courses/web-development-101) course and at least do the [Web Development Frameworks section](/courses/web-development-101/#web-development-frameworks).
 
 4. Read and follow along with [Chapter 2 of The Rails Tutorial](https://www.railstutorial.org/book/toy_app) by Michael Hartl, where you will create a very basic Ruby on Rails application. Michael takes steps to standardize the development process by partnering with [Cloud 9](https://c9.io), but if you've done the installations listed above you should be good to go on your own machine. Michael also favors [bitbucket](https://bitbucket.org/) over github because bitbucket has free private repos. If you choose to use bitbucket keep in mind that your solution will not be viewable unless you make the repository public.  If you feel a little lost, it might not hurt to go back and re-read chapter 1.
 </div>
@@ -28,6 +28,9 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 If you will be submitting a solution for the RoR tutorial chapter 2, make sure it's in a repo that you won't overwrite when we move onto chapter 3 (which starts a new app)
 
 * Add your solution below this line!
+* [Javier Machin's solution](https://github.com/Javier-Machin/toy_app)
+* Isil Donmez's solution: [Github](https://github.com/isildonmez/toy_app) - [Live](https://toy-app-.herokuapp.com/)
+* [0zra's solution](https://github.com/0zra/toy_app) - [Live](https://cryptic-meadow-29771.herokuapp.com/microposts)
 * [Silvan Renggli's solution](https://github.com/SilvanRenggli/ToyApp) - [Live](https://protected-atoll-66261.herokuapp.com/)
 * [rghost's solution](https://github.com/MariaTikhonova/toy_app)
 * [Jmooree30's solution](https://github.com/jmooree30/Rails-toy-app.git) - [Live](https://mysterious-wave-57564.herokuapp.com/)
@@ -112,6 +115,8 @@ If you will be submitting a solution for the RoR tutorial chapter 2, make sure i
 * [CurmudJim's solution](https://github.com/CurmudJim/toy_app) - [Heroku](https://toy-jim.herokuapp.com/)
 * [Oliver Curting's solution](https://github.com/Curting/toy_app)
 * [Jeff Jubin's solution](https://github.com/jeff1st/toy_app)
+* [Bridget Nyirongo's solution](https://github.com/Bridget12/toy_app) - [Heroku-Live](https://toyapp56.herokuapp.com/)
+* [Luke Bartholomew's solution](https://github.com/lukesbart/toy_app) - [Heroku](http://safe-gorge-83677.herokuapp.com/users)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.

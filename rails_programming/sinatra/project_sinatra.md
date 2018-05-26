@@ -11,7 +11,7 @@ Deploying a Sinatra app to Heroku takes a little bit of work but the process is 
 
 ### Project 1: Caesar Cipher _reloaded_
 
-Revisit the caesar cipher ruby script that you created during [Ruby Building Blocks](http://www.theodinproject.com/ruby-programming/building-blocks) and use Sinatra to create a simple front-end for it.
+Revisit the caesar cipher ruby script that you created during [Ruby Building Blocks](https://www.theodinproject.com/courses/ruby-programming/lessons/ruby-building-blocks) and use Sinatra to create a simple front-end for it.
 
 ### Your Task
 
@@ -25,6 +25,13 @@ Revisit the caesar cipher ruby script that you created during [Ruby Building Blo
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+
+* Nathan Sherburne's solution [GitHub](https://github.com/nathansherburne/caesar_cypher_reloaded) [Live](https://glacial-springs-63073.herokuapp.com/)
+* Jon Yoo's solution [GitHub](https://github.com/jonyoowa/caeser-cipher-reloaded) [Live](https://secure-oasis-76384.herokuapp.com/)
+* Samuel Master's solution[Github](https://github.com/redeyetuning/sin_caeser)[Live](https://murmuring-river-12342.herokuapp.com)
+* Javier Machin's solution[Github](https://github.com/Javier-Machin/caesar_cipher_app)[Live](https://secret-sands-76856.herokuapp.com/)
+* Isil Donmez's solution[Github](https://github.com/isildonmez/Caesar-Cipher)[Live](https://caesar-cipher-.herokuapp.com/)
+* 0zra's Solution [Github](https://github.com/0zra/heroku_caesar) - [Live](https://gentle-falls-67644.herokuapp.com/)
 * Ovsjah Schweinefresser's Solution [Github](https://github.com/Ovsjah/caesar_cipher_reloaded) - [Live](https://peaceful-sea-47272.herokuapp.com/)
 * Lucas Bicudo's Solution [Github](https://github.com/lucbic/cipher) - [Live](https://lit-tor-29929.herokuapp.com/)
 * Jmooree30's Solution [Github](https://github.com/jmooree30/sinatra_cipher.git) - [Live](https://desolate-citadel-27669.herokuapp.com/)
@@ -100,6 +107,12 @@ Pick either Mastermind or Hangman and build a front end for it.  This one might 
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* Jon Yoo's solution (Hangman) [GitHub](https://github.com/jonyoowa/hangman-sinatra) - [Live](https://rocky-sea-27959.herokuapp.com/)
+* Samuel Masters's solution (Mastermind)[Github](https://github.com/redeyetuning/sin_mastermind)[Live](https://polar-gorge-27519.herokuapp.com/)
+* Javier Machin's solution (Hangman)[Github](https://github.com/Javier-Machin/hangman_app)[Live](https://whispering-woodland-74608.herokuapp.com/)
+* 0zra's solution (Mastermind)[Github](https://github.com/0zra/heroku_mastermind)
+* Roman Alenskiy's solution (Hangman) [Github](https://github.com/Roman-Alenskiy/web_hangman) / [Heroku](https://web-hangman.herokuapp.com/)
+* Isil Donmez's solution(Hangman)[Github](https://github.com/isildonmez/hangman_reloaded)[Live](https://hangman-reloaded.herokuapp.com/)
 * Ovsjah Schweinefresser's Solution (Hangman) [Github](https://github.com/Ovsjah/hangman_on_web) - [Live](https://warm-inlet-77219.herokuapp.com/game)
 * Lucas Bicudo's Solution (Hangman) [Github](https://github.com/lucbic/hangman) - [Live](https://lit-garden-60308.herokuapp.com/)
 * Jmooree30's solution (Hangman) [Github](https://github.com/jmooree30/Sinatra_hangman.git) - [Live](https://gentle-waters-29359.herokuapp.com/)
