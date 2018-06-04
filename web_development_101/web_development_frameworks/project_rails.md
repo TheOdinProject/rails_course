@@ -311,6 +311,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Encolpius's Solution](https://github.com/Encolpius/odin-blogger) - [View in Browser](https://blooming-oasis-31140.herokuapp.com/)
 * [cartwheeler's Solution](https://github.com/cartwheeler/ruby_on_rails_first_project/) - [View in Browser](https://fathomless-everglades-11272.herokuapp.com/)
 * [mojotron's Solution](https://github.com/mojotron/rails-blogger-project) - [View in Browser](https://morning-anchorage-74679.herokuapp.com/articles)
+* [jmurinllo's Solution](https://github.com/jmurinello/blogger) - [View in Browser](https://obscure-lake-54351.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
