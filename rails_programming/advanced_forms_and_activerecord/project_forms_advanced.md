@@ -68,6 +68,7 @@ Once the user has submitted their chosen flight, it's time to take their booking
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [Javier Machin's solution](https://github.com/Javier-Machin/flight-booker) - [Live](https://easy-flight.herokuapp.com/)
 * [nmac's solution](https://github.com/nmacawile/fly-me-there) - [Heroku](http://protected-castle-72511.herokuapp.com)
 * [brxck's solution](https://github.com/brxck/flight-booker) - [View in Browser](https://nameless-sierra-62923.herokuapp.com/)
 * [Jmooree30's solution](https://github.com/jmooree30/flight-booker.git) - [View in Browser](https://powerful-wildwood-98145.herokuapp.com/)
