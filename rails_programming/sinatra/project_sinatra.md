@@ -25,7 +25,7 @@ Revisit the caesar cipher ruby script that you created during [Ruby Building Blo
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
-
+* Btreim's solution [GitHub](https://github.com/btreim/sinatra) [Live](https://cryptic-tundra-83691.herokuapp.com)
 * Nathan Sherburne's solution [GitHub](https://github.com/nathansherburne/caesar_cypher_reloaded) [Live](https://glacial-springs-63073.herokuapp.com/)
 * Jon Yoo's solution [GitHub](https://github.com/jonyoowa/caeser-cipher-reloaded) [Live](https://secure-oasis-76384.herokuapp.com/)
 * Samuel Master's solution[Github](https://github.com/redeyetuning/sin_caeser)[Live](https://murmuring-river-12342.herokuapp.com)
@@ -108,6 +108,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 
 * Add your solution below this line!
 * Nathan Sherburne's solution (Hangman) [GitHub](https://github.com/nathansherburne/caesar_cypher_reloaded) [Live](https://glacial-springs-63073.herokuapp.com/)
+* Btreims's solution (Hangman) [GitHub](https://github.com/btreim/hangman_reboot) - [Live](https://protected-ocean-55660.herokuapp.com/)
 * Jon Yoo's solution (Hangman) [GitHub](https://github.com/jonyoowa/hangman-sinatra) - [Live](https://rocky-sea-27959.herokuapp.com/)
 * Samuel Masters's solution (Mastermind)[Github](https://github.com/redeyetuning/sin_mastermind)[Live](https://polar-gorge-27519.herokuapp.com/)
 * Javier Machin's solution (Hangman)[Github](https://github.com/Javier-Machin/hangman_app)[Live](https://whispering-woodland-74608.herokuapp.com/)

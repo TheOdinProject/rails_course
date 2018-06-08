@@ -56,6 +56,7 @@ Keep the following requirements in mind.  We'll cover specific steps to get star
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [szib's solution](https://github.com/szib/odinbook) - [View in Browser](https://mysterious-retreat-45234.herokuapp.com/)
 * [brxck's solution](https://github.com/brxck/odinbook) - [View in Browser](https://morning-coast-23139.herokuapp.com/)
 * [nmac's solution](https://github.com/nmacawile/facebook-on-rails) - [Heroku](https://fb-on-rails.herokuapp.com)
 * [theghall's solution](https://github.com/theghall/odin-facebook.git) - [View in Browser](https://cryptic-badlands-84674.herokuapp.com/)
@@ -101,6 +102,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Jerry Gao's solution](https://github.com/blackwright/tracebook) - [View in browser](https://tracebook.herokuapp.com/)
 * [Austin's solution](https://github.com/CouchofTomato/odinbook) - [View in browser](https://couch-odinbook.herokuapp.com)
 * [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/tree/master/rails/fakebook_app) - [View in browser](https://fm-fakebook.herokuapp.com/)
+* [Francisco Carlos's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/odin-facebook)
 * [DV's solution](https://github.com/dvislearning/odin-facebook) - [View in browser](https://fast-earth-56311.herokuapp.com/)
 
 ### Additional Resources
