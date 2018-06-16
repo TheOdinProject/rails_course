@@ -104,6 +104,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/tree/master/rails/fakebook_app) - [View in browser](https://fm-fakebook.herokuapp.com/)
 * [Francisco Carlos's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/odin-facebook)
 * [DV's solution](https://github.com/dvislearning/odin-facebook) - [View in browser](https://fast-earth-56311.herokuapp.com/)
+* [Scott McKell's solution](https://github.com/zottwickel/odin-facebook) - [View in browser](https://zottwickel-odin-facebook.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
