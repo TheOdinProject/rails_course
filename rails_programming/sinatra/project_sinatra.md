@@ -89,6 +89,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * Anistor86's solution [github](https://github.com/anistor86/sinatra_caesar_cipher) / [see it on the web](https://pure-retreat-21723.herokuapp.com/)
 * Oliver Curting's solution [GitHub](https://github.com/Curting/web_guesser) / [see it on the web](https://sinatra-web-guesser.herokuapp.com/)
 * Jeff Jubin's solution [GitHub](https://github.com/jeff1st/sinatra_games) / [see it on the web](https://quiet-beach-81520.herokuapp.com/cipher)
+* Punnadittr's solution [GitHub](https://github.com/punnadittr/sinatra_caesar) / [see it on the web](https://radiant-journey-40824.herokuapp.com/)
 
 ### Project 2: Another Web-Game
 
@@ -165,3 +166,4 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * Francisco's Carlos solution - [github](https://github.com/fcarlosdev/the_odin_project/tree/master/sinatra_project)
 * Oliver Curting's solution - Mastermind: [GitHub](https://github.com/Curting/sinatra_mastermind) / [see it on the web](https://sinatra-mastermind.herokuapp.com/)
 * Jeff Jubin's solution - Mastermind: [GitHub](https://github.com/jeff1st/sinatra_games) / [see it on the web](https://quiet-beach-81520.herokuapp.com/)
+* Punnadittr's solution - Hangman: [github](https://github.com/punnadittr/sinatra_hangman) / [see it on the web](https://protected-falls-18287.herokuapp.com/)
