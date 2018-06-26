@@ -119,6 +119,7 @@ If you will be submitting a solution for the RoR tutorial chapter 2, make sure i
 * [Luke Bartholomew's solution](https://github.com/lukesbart/toy_app) - [Heroku](http://safe-gorge-83677.herokuapp.com/users)
 * [Cody Buffaloe's solution](https://github.com/CodyLBuffaloe/toy_app) - [Heroku](https://polar-earth-62350.herokuapp.com/)
 * [Punnadittr's solution](https://github.com/punnadittr/rails_toy_app) - [Heroku](https://pacific-bastion-46267.herokuapp.com/)
+* [Agon's solution](https://github.com/AgonIdrizi/toy_app) - [Heroku](https://toy-app-agon.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
