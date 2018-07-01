@@ -191,4 +191,4 @@ Make sure to follow the tutorial!
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
 
-* [CodeSchool's Surviving APIs with Rails](http://railsapis.codeschool.com/) - Level 1 is free and gets into REST, Routes, Constraints, and Namespaces.
+* [CodeSchool's Surviving APIs with Rails](https://www.youtube.com/watch?v=99nZVo9amAQ) - Level 1 is free and gets into REST, Routes, Constraints, and Namespaces.
