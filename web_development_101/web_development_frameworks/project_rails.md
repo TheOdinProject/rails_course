@@ -24,6 +24,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 
 * Add your solution below this line!
 * [SarfrazAnjum's Solution](https://github.com/SarfrazAnjum/TOP_101_Ruby-on-Rails-Blogger-2) - 
+* [Max Garber's Solution](https://github.com/bubblebooy/blogger) - [View in browser](https://ancient-earth-35702.herokuapp.com/)
 * [Ngo Van Huong's Solution](https://github.com/ngovanhuong94/blogger-ruby) - [View in browser](https://blogger-ruby.herokuapp.com/)
 * [Bojana Karakacev's Solution](https://github.com/bojana12/ruby_on_rails_project) - [View in browser](https://sheltered-caverns-34415.herokuapp.com/)
 * [Adrien Pardo's Solution](https://github.com/Shieboo/blogger) - [View in browser](https://polar-scrubland-73662.herokuapp.com/)
