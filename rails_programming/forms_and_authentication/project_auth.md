@@ -173,6 +173,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Luján's Fernaud solution](https://github.com/lujanfernaud/menbaa) | [View in browser](https://menbaa.herokuapp.com/)
 * [Pat's solution](https://github.com/Pat878/members_only)
 * [Francisco's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/members-only)
+* [Punnadittr's solution](https://github.com/punnadittr/members-only)| [View in browser](https://lovely-mesa-verde-62169.herokuapp.com/)
 
 ### Additional Resources
 
