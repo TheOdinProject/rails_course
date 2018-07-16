@@ -16,7 +16,7 @@ Because you'll be doing so much stuff that we haven't taught you yet, this is a 
   4. Here's a [helpful gist with common Blogger problems](https://gist.github.com/burtlo/4970471) if you're running into issues with routes, deleting, partials, and `redirect_to`.
   5. If you're feeling ambitious, add in authentication in section I5.
   6. If you're feeling very ambitious, try doing the final Extras section I6.
-  7. Don't forget to deploy your app to Heroku!  [Review Heroku deployment here.](http://installfest.railsbridge.org/installfest/deploy_a_rails_app)
+  7. Don't forget to deploy your app to Heroku!  [Review Heroku deployment here.](https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application?ref=lnav)
 </div>
 
 ### Student Solutions
