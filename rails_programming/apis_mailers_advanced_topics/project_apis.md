@@ -141,6 +141,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Sophia Wu's solution](https://github.com/SophiaLWu/kittens-api)
 * [Daniel Aguilar's solution](https://github.com/danaguilar/odin-kittens)
 * [Francisco Carlos's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/odin-kittens)
+* [Punnadittr's solution](https://github.com/punnadittr/odin-kittens)
 
 ### Project 2: Using a Third Party API
 
@@ -202,6 +203,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Sophia Wu's solution](https://github.com/SophiaLWu/flickr-app-api) - [View in Browser](https://radiant-ravine-62439.herokuapp.com/)
 * [Daniel Aguilar's solution](https://github.com/danaguilar/Flicker-fotos)
 * [Francisco Carlos's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/odin-flickr-api)
+* [Punnadittr's solution](https://github.com/punnadittr/flickr-api-app) - [View in Browser](https://young-wildwood-74188.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
