@@ -69,6 +69,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Sophia Wu's Solution](https://github.com/SophiaLWu/flight-booker) - [View in Browser](https://infinite-fortress-13459.herokuapp.com/)
 * [Daniel Aguilar's Solution](https://github.com/danaguilar/odin-flight-booker)
 * [Francisco's Solution](https://github.com/fcarlosdev/the_odin_project/tree/master/odin-flight-booker)
+* [Punnadittr's Solution](https://github.com/punnadittr/flight-booker) - [View in Browser](https://frozen-everglades-39378.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
