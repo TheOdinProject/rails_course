@@ -39,7 +39,7 @@ As you can see, I frequently relied on the main resources you'll be learning fro
 **If you haven't completed these, be sure to do so before getting started:**
 
 <div class="lesson-content__panel" markdown="1">
-  * Your software should be installed, as listed in the [Installfest section](/courses/web-development-101/lessons/installations).
+  * Your software should be installed, as listed in the [Installfest section](/courses/web-development-101/lessons/your-first-rails-application).
   * You should really have gone through the full [Web Development 101](/courses/web-development-101) course, but the most important parts are listed below.
       * Read the full [Back End section](/courses/web-development-101/lessons/introduction-to-the-back-end) of the Web Development 101 section for an introduction to Ruby.
       * Complete at least the full [Ruby Basics](/courses/web-development-101/lessons/ruby-basics) lesson (all readings and projects) to have a solid grounding in Ruby basics.
