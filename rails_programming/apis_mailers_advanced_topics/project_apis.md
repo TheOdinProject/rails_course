@@ -142,6 +142,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Daniel Aguilar's solution](https://github.com/danaguilar/odin-kittens)
 * [Francisco Carlos's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/odin-kittens)
 * [Punnadittr's solution](https://github.com/punnadittr/odin-kittens)
+* [JZaitz's solution](https://github.com/JZaitz/Kittens-API) 
 
 ### Project 2: Using a Third Party API
 
