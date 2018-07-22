@@ -141,6 +141,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [at0micred's solution](https://github.com/amyjording/private-events)
 * [Francisco Carlos's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/private-events)
 * [Punnadittr's solution](https://github.com/punnadittr/private-events) - [View in browser](https://boiling-plains-19274.herokuapp.com/)
+* [Uy Bình's solution](https://github.com/uybinh/private_events_odin) - [View in browser](https://private-event-odin.herokuapp.com)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
