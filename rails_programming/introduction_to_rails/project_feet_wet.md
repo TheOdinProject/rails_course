@@ -14,8 +14,7 @@ In this chapter, you'll build a simple scaffolded app on Rails.  It won't be as 
 
 ### Assignment
 <div class="lesson-content__panel" markdown="1">
-1. If you haven't already, do the [Installations project](/courses/web-development-101/lessons/installations).  If you've already got Rails on your system, it's still worth skipping to the bottom and verifying that you've got **Rails 4** (at least) and **Ruby 2** working properly.  The section says:
-    Even if you didn't use the Railsbridge installation instructions, verify your installation by following their instructions for [creating a sample Rails app](http://installfest.railsbridge.org/installfest/create_a_rails_app) and then [deploying it](http://installfest.railsbridge.org/installfest/deploy_a_rails_app).
+1. If you haven't already, do the [your frist rails application](https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application).  If you've already got Rails on your system, it's still worth skipping to the bottom and verifying that you've got **Rails 4** (at least) and **Ruby 2** working properly.
 2. If you haven't already, do the [Blogger Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html), and chapter 1 of [the Rails Tutorial](https://www.railstutorial.org/book/beginning).
 3. If you haven't done either of these, you should go back to the [Web Development 101](/courses/web-development-101) course and at least do the [Web Development Frameworks section](/courses/web-development-101/#web-development-frameworks).
 
