@@ -92,6 +92,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * Punnadittr's solution [GitHub](https://github.com/punnadittr/sinatra_caesar) / [see it on the web](https://radiant-journey-40824.herokuapp.com/)
 * Agon's solution [Github](https://github.com/AgonIdrizi/Caesar_Cipher_SInatra) / [see it on the web](https://caesar-cipher-sinatra-app.herokuapp.com/)
 * Jamesredux's solution [Github](https://github.com/Jamesredux/sinatra_project) / [see it on the web](https://peaceful-shelf-45458.herokuapp.com/)
+* Areeba's solution [github](https://github.com/AREEBAISHTIAQ/sinatra)/ [see it on the web](https://sinatra-.herokuapp.com/)
 
 ### Project 2: Another Web-Game
 
