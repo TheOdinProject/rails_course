@@ -314,6 +314,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/rails_cours
 * [mojotron's Solution](https://github.com/mojotron/rails-blogger-project) - [View in Browser](https://morning-anchorage-74679.herokuapp.com/articles)
 * [jmurinllo's Solution](https://github.com/jmurinello/blogger) - [View in Browser](https://obscure-lake-54351.herokuapp.com/)
 * [Ben Smyth's Solution](https://github.com/benjsmyth/blogger)
+* [spankie's Solution](https://github.com/spankie1337/ruby-blogger) - [View in Browser](https://limitless-temple-84526.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
