@@ -76,6 +76,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Jeff Jubin's solution](https://github.com/jeff1st/rest_client)
 * [Agon's solution](https://github.com/AgonIdrizi/RestClient_bingsearch)
 * [Cody Buffaloe's solution](https://github.com/CodyLBuffaloe/Rest_Client_Example)
+* [Areeba's solution](https://github.com/AREEBAISHTIAQ/rest-client/blob/master/rest-client.rb)
 
 
 ### Project: Ruby on Rails Tutorial
