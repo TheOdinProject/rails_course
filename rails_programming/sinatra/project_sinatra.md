@@ -171,3 +171,4 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * Jeff Jubin's solution - Mastermind: [GitHub](https://github.com/jeff1st/sinatra_games) / [see it on the web](https://quiet-beach-81520.herokuapp.com/)
 * Punnadittr's solution - Hangman: [github](https://github.com/punnadittr/sinatra_hangman) / [see it on the web](https://protected-falls-18287.herokuapp.com/)
 * Agon's solution - Hangman: [github](https://github.com/AgonIdrizi/Hangman_Sinatra) / [see it on the web](https://cryptic-earth-30619.herokuapp.com/)
+* Jamesredux's solution - Hangman: [github](https://github.com/Jamesredux/hangman_sinatra) / [see it on the web](https://powerful-fortress-46909.herokuapp.com/)
