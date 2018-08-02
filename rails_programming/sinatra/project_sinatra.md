@@ -25,6 +25,7 @@ Revisit the caesar cipher ruby script that you created during [Ruby Building Blo
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* Max Garber's solution [GitHub](https://github.com/bubblebooy/Sinatra_Caesar_Cipher) [Live](https://gentle-meadow-83909.herokuapp.com/)
 * Btreim's solution [GitHub](https://github.com/btreim/sinatra) [Live](https://cryptic-tundra-83691.herokuapp.com)
 * Nathan Sherburne's solution [GitHub](https://github.com/nathansherburne/caesar_cypher_reloaded) [Live](https://glacial-springs-63073.herokuapp.com/)
 * Jon Yoo's solution [GitHub](https://github.com/jonyoowa/caeser-cipher-reloaded) [Live](https://secure-oasis-76384.herokuapp.com/)
@@ -111,6 +112,7 @@ Pick either Mastermind or Hangman and build a front end for it.  This one might 
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* Max Garber's solution (Hangman) [GitHub](https://github.com/bubblebooy/Sinatra_Hangman) [Live](https://floating-atoll-54622.herokuapp.com/)
 * Nathan Sherburne's solution (Hangman) [GitHub](https://github.com/nathansherburne/caesar_cypher_reloaded) [Live](https://glacial-springs-63073.herokuapp.com/)
 * Btreims's solution (Hangman) [GitHub](https://github.com/btreim/hangman_reboot) - [Live](https://protected-ocean-55660.herokuapp.com/)
 * Jon Yoo's solution (Hangman) [GitHub](https://github.com/jonyoowa/hangman-sinatra) - [Live](https://rocky-sea-27959.herokuapp.com/)
