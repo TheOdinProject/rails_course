@@ -175,6 +175,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Francisco's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/members-only)
 * [Punnadittr's solution](https://github.com/punnadittr/members-only) | [View in browser](https://lovely-mesa-verde-62169.herokuapp.com/)
 * [Uy Bình's solution](https://github.com/uybinh/member-only-odin) | [View in browser](https://member-only-summer.herokuapp.com)
+* [Agon's solution](https://github.com/AgonIdrizi/members-only) | [View in browser](https://serene-hollows-13658.herokuapp.com/)
 
 ### Additional Resources
 
