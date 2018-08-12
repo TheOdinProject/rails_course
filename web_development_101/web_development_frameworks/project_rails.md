@@ -320,6 +320,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/rails_cours
 * [spankie's Solution](https://github.com/spankie1337/ruby-blogger) - [View in Browser](https://limitless-temple-84526.herokuapp.com/)
 * [Amy Smith's Solution](https://github.com/amicloud/the-odin-project/tree/master/blogger) - [View in Browser](https://odin-blogger-project.herokuapp.com/)
 * [MrObele's Solution](https://github.com/MrObele/Rails_Blogger) - [View in Browser](https://davids-blog.herokuapp.com/)
+* [dmarkiewicz's Solution](https://github.com/dmarkiewicz/the-odin-project/tree/master/blogger-app)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
