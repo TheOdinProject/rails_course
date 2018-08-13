@@ -322,7 +322,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/rails_cours
 * [Felipe Parreira's Solution](https://github.com/FelipeParreira/TheOdinProject/tree/master/web-dev-101/web-dev-frameworks/blog-rails) - [View in Browser](https://warm-basin-63355.herokuapp.com/)
 * [MrObele's Solution](https://github.com/MrObele/Rails_Blogger) - [View in Browser](https://davids-blog.herokuapp.com/)
 * [dmarkiewicz's Solution](https://github.com/dmarkiewicz/the-odin-project/tree/master/blogger-app)
-
+* [Dima Konoval's Solution](https://github.com/DimaKonoval/RailsFirstProject) - [View in Browser](https://afternoon-lake-81884.herokuapp.com/articles)
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
 
