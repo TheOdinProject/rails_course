@@ -96,6 +96,7 @@ This is obviously a somewhat incomplete solution... We currently need to create 
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* [Btreim's solution](https://github.com/btreim/members-only)
 * [0zra's solution](https://github.com/0zra/members-only)
 * Roman Alenskiy's solution (Mobile-friendly) [Github](https://github.com/Roman-Alenskiy/secret_lodge) / [Heroku](https://secret-lodge.herokuapp.com/)
 * [Javier Machin's solution](https://github.com/Javier-Machin/members-only)
