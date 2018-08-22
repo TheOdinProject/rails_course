@@ -324,6 +324,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/rails_cours
 * [dmarkiewicz's Solution](https://github.com/dmarkiewicz/the-odin-project/tree/master/blogger-app)
 * [Dima Konoval's Solution](https://github.com/DimaKonoval/RailsFirstProject) - [View in Browser](https://afternoon-lake-81884.herokuapp.com/articles)
 * [Brendaneus' Solution](https://github.com/Brendaneus/blogger) - [View in Browser](https://fierce-shelf-91817.herokuapp.com/)
+* [TommyHoang's Solution](https://github.com/hoangtommy/blogger) - [View in Browser](https://thawing-headland-19216.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
