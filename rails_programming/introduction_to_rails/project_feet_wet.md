@@ -27,6 +27,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 If you will be submitting a solution for the RoR tutorial chapter 2, make sure it's in a repo that you won't overwrite when we move onto chapter 3 (which starts a new app)
 
 * Add your solution below this line!
+* [Malaika's Solution](https://github.com/malaikaMI/toy_app/tree/master/toy_app)
 * [Javier Machin's solution](https://github.com/Javier-Machin/toy_app)
 * Isil Donmez's solution: [Github](https://github.com/isildonmez/toy_app) - [Live](https://toy-app-.herokuapp.com/)
 * [0zra's solution](https://github.com/0zra/toy_app) - [Live](https://cryptic-meadow-29771.herokuapp.com/microposts)
