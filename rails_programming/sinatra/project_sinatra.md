@@ -176,3 +176,4 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * Agon's solution - Hangman: [github](https://github.com/AgonIdrizi/Hangman_Sinatra) / [see it on the web](https://cryptic-earth-30619.herokuapp.com/)
 * Jamesredux's solution - Hangman: [github](https://github.com/Jamesredux/sinatra_portfolio) / [see it on the web](https://jredux-sinatra.herokuapp.com/)
 * Calstream's solution - Hangman: [github](https://github.com/Calstream/hangman-sinatra) / [play here](https://hanged-man.herokuapp.com/)
+* Malaika's Solution For Hangman: [Github](https://github.com/malaikaMI/Hangman_with_sinatra)
