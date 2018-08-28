@@ -25,6 +25,7 @@ Revisit the caesar cipher ruby script that you created during [Ruby Building Blo
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* Malaika's Solution [Github](https://github.com/malaikaMI/Sinatra_ceaser_cipher)
 * Max Garber's solution [GitHub](https://github.com/bubblebooy/Sinatra_Caesar_Cipher) [Live](https://gentle-meadow-83909.herokuapp.com/)
 * Btreim's solution [GitHub](https://github.com/btreim/sinatra) [Live](https://cryptic-tundra-83691.herokuapp.com)
 * Nathan Sherburne's solution [GitHub](https://github.com/nathansherburne/caesar_cypher_reloaded) [Live](https://glacial-springs-63073.herokuapp.com/)
@@ -175,3 +176,4 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * Agon's solution - Hangman: [github](https://github.com/AgonIdrizi/Hangman_Sinatra) / [see it on the web](https://cryptic-earth-30619.herokuapp.com/)
 * Jamesredux's solution - Hangman: [github](https://github.com/Jamesredux/sinatra_portfolio) / [see it on the web](https://jredux-sinatra.herokuapp.com/)
 * Calstream's solution - Hangman: [github](https://github.com/Calstream/hangman-sinatra) / [play here](https://hanged-man.herokuapp.com/)
+* Malaika's Solution For Hangman: [Github](https://github.com/malaikaMI/Hangman_with_sinatra)
