@@ -23,6 +23,8 @@ Because you'll be doing so much stuff that we haven't taught you yet, this is a 
 Submit a link below to this [file](https://github.com/TheOdinProject/rails_course/edit/master/web_development_101/web_development_frameworks/project_rails.md) with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
+https://gentle-sands-72630.herokuapp.com/articles
+* [Smetanca52's Solution](https://github.com/Smetanca52) - [View in browser](https://gentle-sands-72630.herokuapp.com/articles)
 * [Ajani Stewart's Solution](https://github.com/AjaniStewart/rails-blogging-app) - [View in browser](https://pacific-coast-73502.herokuapp.com/)
 * [Pietro Verdile's solution](https://github.com/pverdile/blogger_jumpstart) - [View in browser](https://shielded-caverns-85219.herokuapp.com/)
 * [prw001's Solution](https://github.com/prw001/jumpstart_blogger_project) - [View in browser](https://obscure-shelf-25095.herokuapp.com/)
