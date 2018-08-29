@@ -126,9 +126,10 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Dylan's Solution](https://github.com/resputin/the_odin_project/tree/master/Rails/odin-flight-booker)
 * [Marcus' solution](https://github.com/nestcx/odin-flight-booker)
 * [DV's Solution](https://github.com/dvislearning/odin-flight-booker) - [View in Browser](https://powerful-sierra-48857.herokuapp.com/)
-* [Peter Mester`s solution](https://github.com/peter665/FlightBooker) - [View in Browser](http://flight-booker-mester.herokuapp.com/)
+* [Peter Mester's solution](https://github.com/peter665/FlightBooker) - [View in Browser](http://flight-booker-mester.herokuapp.com/)
 * [Francisco Carlos's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/odin-flight-booker)
 * [Punnadittr's solution](https://github.com/punnadittr/flight-booker) - [View in Browser](https://frozen-everglades-39378.herokuapp.com/)
+* [Areeba's solution](https://github.com/AREEBAISHTIAQ/flight-booker)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
