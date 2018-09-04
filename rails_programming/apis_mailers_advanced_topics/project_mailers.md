@@ -70,6 +70,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Daniel Aguilar's Solution](https://github.com/danaguilar/odin-flight-booker)
 * [Francisco's Solution](https://github.com/fcarlosdev/the_odin_project/tree/master/odin-flight-booker)
 * [Punnadittr's Solution](https://github.com/punnadittr/flight-booker) - [View in Browser](https://frozen-everglades-39378.herokuapp.com/)
+* [Areeba's solution](https://github.com/AREEBAISHTIAQ/members-only)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
