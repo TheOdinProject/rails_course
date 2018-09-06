@@ -113,6 +113,7 @@ Pick either Mastermind or Hangman and build a front end for it.  This one might 
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* Brendan Tang's solution (Hangman) [GitHub](https://github.com/brendantang/hangman-sinatra) [Live](https://radiant-temple-25499.herokuapp.com/)
 * Max Garber's solution (Hangman) [GitHub](https://github.com/bubblebooy/Sinatra_Hangman) [Live](https://floating-atoll-54622.herokuapp.com/)
 * Nathan Sherburne's solution (Hangman) [GitHub](https://github.com/nathansherburne/caesar_cypher_reloaded) [Live](https://glacial-springs-63073.herokuapp.com/)
 * Btreims's solution (Hangman) [GitHub](https://github.com/btreim/hangman_reboot) - [Live](https://protected-ocean-55660.herokuapp.com/)
