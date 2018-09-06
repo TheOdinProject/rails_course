@@ -232,7 +232,6 @@ Submit a link below to this [file](https://github.com/TheOdinProject/rails_cours
 * [Jiazhi Guo's solution](https://github.com/jerrykuo7727/blogger) - [View in browser](https://sheltered-scrubland-87671.herokuapp.com/)
 * [Ace Cassidy's solution](https://github.com/Ace-Cassidy/Blogger) - [View in browser](https://salty-chamber-16317.herokuapp.com)
 * [Derek Kwong's solution](https://github.com/dckwong/ProjectRails) - [View in browser](https://aqueous-spire-28165.herokuapp.com/)
-* [Emil Dimitrov's solution](https://github.com/emo1/blogger-project) - [View in browser](https://sheltered-waters-69313.herokuapp.com/)
 * [Leo Soai-Van's solution](https://github.com/leosoaivan/project_rails) - [View in browser](https://lit-plains-26186.herokuapp.com/)
 * [Armin Zierlinger's solution](https://github.com/ArminZierlinger/RubyonRails) - [View in browser](https://calm-basin-45633.herokuapp.com/)
 * [Vanessa Tan's solution](https://github.com/vanJargon/blogger) - [View in browser](https://peaceful-brushlands-76681.herokuapp.com)
@@ -327,6 +326,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/rails_cours
 * [Dima Konoval's Solution](https://github.com/DimaKonoval/RailsFirstProject) - [View in Browser](https://afternoon-lake-81884.herokuapp.com/articles)
 * [Brendaneus' Solution](https://github.com/Brendaneus/blogger) - [View in Browser](https://fierce-shelf-91817.herokuapp.com/)
 * [TommyHoang's Solution](https://github.com/hoangtommy/blogger) - [View in Browser](https://thawing-headland-19216.herokuapp.com/)
+* [Emil Dimitrov's solution](https://github.com/imemdm/blogger) - [View in browser](https://ancient-shore-12666.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
