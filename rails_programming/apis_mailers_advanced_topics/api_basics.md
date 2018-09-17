@@ -140,7 +140,7 @@ Sometimes you just want to send out an HTTP error code without any response body
 
 #### Creating Dynamic Error Pages
 
-You can create your own error pages. See [this blog post](http://wearestac.com/blog/dynamic-error-pages-in-rails).
+You can create your own error pages. See [this blog post](https://pooreffort.com/blog/custom-rails-error-pages).
 
 Sometimes Heroku can require additional steps to properly display your error pages.  See [their error page docs here](https://devcenter.heroku.com/articles/error-pages).  You might need to delete the static pages in the `app/public` directory first.
 
