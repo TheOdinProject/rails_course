@@ -206,7 +206,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Francisco Carlos's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/micro-reddit)
 * [Punnadittr's solution](https://github.com/punnadittr/micro_reddit)
 * [Agon's solution](https://github.com/AgonIdrizi/micro-reddit)
-
+* [Malaika's Solution](https://github.com/malaikaMI/Micro-reddit)
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
 
