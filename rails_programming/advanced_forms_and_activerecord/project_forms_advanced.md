@@ -130,6 +130,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Francisco Carlos's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/odin-flight-booker)
 * [Punnadittr's solution](https://github.com/punnadittr/flight-booker) - [View in Browser](https://frozen-everglades-39378.herokuapp.com/)
 * [Areeba's solution](https://github.com/AREEBAISHTIAQ/flight-booker)
+* [Agon's solution](https://github.com/AgonIdrizi/flight-booker) - [View in Browser](https://flight-booker-agon.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
