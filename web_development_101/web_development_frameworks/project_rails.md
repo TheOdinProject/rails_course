@@ -328,6 +328,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/rails_cours
 * [TommyHoang's Solution](https://github.com/hoangtommy/blogger) - [View in Browser](https://thawing-headland-19216.herokuapp.com/)
 * [Emil Dimitrov's solution](https://github.com/imemdm/blogger) - [View in browser](https://ancient-shore-12666.herokuapp.com/)
 * [Husseyexplores' solution](https://github.com/husseyexplores/rails-blogger) - [View in browser](https://husseyblogapp.herokuapp.com/)
+* [bchalman's Solution](https://github.com/bchalman/Rails-Blogger) - [View in browser](https://shrouded-fortress-23699.herokuapp.com/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
