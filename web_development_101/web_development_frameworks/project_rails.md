@@ -23,12 +23,13 @@ Because you'll be doing so much stuff that we haven't taught you yet, this is a 
 Submit a link below to this [file](https://github.com/TheOdinProject/rails_course/edit/master/web_development_101/web_development_frameworks/project_rails.md) with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
+* [Hummeldon's Solution](https://github.com/hummeldon/jumpstart_lab_blog_tutorial) - [View in browser](https://shielded-escarpment-39617.herokuapp.com/)
 * [Mohamed Elattar's Solution](https://github.com/mohamed-elattar/blogger) - [View in browser](https://lit-sea-47587.herokuapp.com)
 * [Smetanca52's Solution](https://github.com/Smetanca52/) - [View in browser](https://gentle-sands-72630.herokuapp.com/articles)
 * [Ajani Stewart's Solution](https://github.com/AjaniStewart/rails-blogging-app) - [View in browser](https://pacific-coast-73502.herokuapp.com/)
 * [Pietro Verdile's solution](https://github.com/pverdile/blogger_jumpstart) - [View in browser](https://shielded-caverns-85219.herokuapp.com/)
 * [prw001's Solution](https://github.com/prw001/jumpstart_blogger_project) - [View in browser](https://obscure-shelf-25095.herokuapp.com/)
-* [SarfrazAnjum's Solution](https://github.com/SarfrazAnjum/TOP_101_Ruby-on-Rails-Blogger-2) - 
+* [SarfrazAnjum's Solution](https://github.com/SarfrazAnjum/TOP_101_Ruby-on-Rails-Blogger-2) -
 * [Max Garber's Solution](https://github.com/bubblebooy/blogger) - [View in browser](https://ancient-earth-35702.herokuapp.com/)
 * [Ngo Van Huong's Solution](https://github.com/ngovanhuong94/blogger-ruby) - [View in browser](https://blogger-ruby.herokuapp.com/)
 * [Bojana Karakacev's Solution](https://github.com/bojana12/ruby_on_rails_project) - [View in browser](https://sheltered-caverns-34415.herokuapp.com/)
