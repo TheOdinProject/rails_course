@@ -1,3 +1,7 @@
+# THIS REPO IS ARCHIVED
+
+Please submit your solutions to the TheOdinProject/curriculum/rails-programming repository
+
 # Welcome to The Odin Project's Ruby on Rails Course
 This repository contains the ruby course for [The Odin Project](https://www.theodinproject.com).
 
